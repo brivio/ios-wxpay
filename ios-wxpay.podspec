@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name             = "brivio-ios-wxpay"
+  s.name             = "ios-wxpay"
   s.version          = "0.1.0"
   s.summary          = "wxpay for ios development"
 
